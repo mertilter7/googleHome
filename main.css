@@ -1,0 +1,24 @@
+.specialgray {
+    background-color: gainsboro;
+}
+.sbutton:hover{
+    background-color: gray;
+    color: white;
+    font-weight: 500;
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+    color: black;
+    font-weight: 500;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 30px;
+}
+
